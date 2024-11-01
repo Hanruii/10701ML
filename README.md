@@ -1,4 +1,4 @@
-# Homework from Introduction to Machine Learning (PhD) at CMU
+# My Homework from Introduction to Machine Learning (PhD) at CMU
 
 ## Introduction
 These programming assignment asks students to conduct model implementation from scratch.
